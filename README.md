@@ -1,5 +1,5 @@
 # IT-145-Grazioso
-Animal intake form created via Java
+Animal intake form created via Java for a course project
 
 Project Prompt:
 
